@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mohithk712&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/mohithk712)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohithkumary)
-[![Gmail](https://img.shields.io/badge/Email-mohith__kumar-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohith_kumar@email.com)
+[![Gmail](https://img.shields.io/badge/Email-mohith__kumar-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohithk712@email.com)
 
 </div>
 
